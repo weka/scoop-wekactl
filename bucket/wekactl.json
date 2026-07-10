@@ -1,17 +1,17 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Command-line tool for managing WEKA clusters and filesystems",
   "homepage": "https://weka.io/",
   "license": "WEKA Binary Code License",
   "bin": "wekactl.exe",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/weka/scoop-wekactl/releases/download/v1.0.1/wekactl_1.0.1_windows_amd64.zip",
-      "hash": "f4bb211883f5dbedd7e5ccee5376ee11a6f02f0c2d63f2ba829998a6f49cdb36"
+      "url": "https://github.com/weka/scoop-wekactl/releases/download/v1.0.2/wekactl_1.0.2_windows_amd64.zip",
+      "hash": "bce644e74a85c34937759215d32cded5db327d5271bfb5976d79484b3c70b9ce"
     },
     "arm64": {
-      "url": "https://github.com/weka/scoop-wekactl/releases/download/v1.0.1/wekactl_1.0.1_windows_arm64.zip",
-      "hash": "50036d59976cbd4a696336f66494fae3dabc8538afcec5cdaec13d4e48631a89"
+      "url": "https://github.com/weka/scoop-wekactl/releases/download/v1.0.2/wekactl_1.0.2_windows_arm64.zip",
+      "hash": "9198f2923def07a55a369360dc079b67aeac1c8f90f7ed1b1009f5a8c444f71b"
     }
   }
 }
